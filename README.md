@@ -2,7 +2,7 @@
 Module 11: Javascript 
 
 ## Overview of Project
-The purpose of this analysis was to 
+The purpose of this analysis was to create a webpage that creates easy data access to different UFO incidents. 
 
 ## Results: 
 This website can be used through the use of the filtering options on the left-hand side of the table of data on the bottom-most part of the site. 
