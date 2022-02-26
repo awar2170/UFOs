@@ -7,7 +7,7 @@ The purpose of this analysis was to
 ## Results: 
 This website can be used through the use of the filtering options on the left-hand side of the table of data on the bottom-most part of the site. 
 
-[Filtering Properties of the Website](url)
+[Filtering Properties of the Website](https://github.com/awar2170/UFOs/blob/main/static/images/Filter_Image_Chart.PNG)
 
 Press the "Enter" key after entering your search criteria to filter the data.  If you want to clear your search, clear the search boxes and press the "Enter" key. 
 
