@@ -11,7 +11,7 @@ This website can be used through the use of the filtering options on the left-ha
 
 Press the "Enter" key after entering your search criteria to filter the data.  If you want to clear your search, clear the search boxes and press the "Enter" key. 
 
-## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+## Summary: 
 ### Drawback
 - Could be made easier to navigate by adding multple pages or routes. 
 
